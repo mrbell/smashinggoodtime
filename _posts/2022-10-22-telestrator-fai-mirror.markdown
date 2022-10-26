@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Telestrator - Wasted Snapdragon Scalers" 
-date:   2022-10-21 19:59:20 -0400
+date:   2022-10-22 19:59:20 -0400
 ---
 
 In preparation for an upcoming local tournament, I've decided to practice with Fai. He's arguably the best deck right now, so I'm considering whether I should sleeve him up myself, or I want to at least have a strong understanding of how he plays. I've been testing with [Daniel Rutkowski's US Nats List](https://fabtcg.com/decklists/daniel-rutkowski-fai-deck---united-states-national-championship-092322/).
