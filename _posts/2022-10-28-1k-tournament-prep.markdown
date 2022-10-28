@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Awesome 1K Tournament Prep" 
+date:   2022-10-28 09:12:00 -0400
+---
+
+I'm playing in a 1K tournament tomorrow run by my LGS, Awesome CCG in NH. I've been testing quite a bit (by my standards), originally with Iyslander, then I tried out Fai, and lately I've been trying my hand at Oldhim. As of today, I've locked in Oldhim, though I still have some choices to make with my exact deck list.
+
+I expect I'll be seeing a lot of Iyslander at the event, as she's a local favorite and, despite my lack of confidence with her, quite a strong hero. I don't expect a ton of Dromai, but definitely some and maybe more than the average as we have a lot of Illusionist fans around. I'm sure there will be a lot of aggro, maybe more Briar than Fai, but definitely a strong contingent of both. Whatever I bring, I need a gameplan into these decks. 
+
+I really love playing Iyslander, and with more time to test I would consider bringing her. But as of right now I do not have a plan that has been working for me *at all* into Dromai, with that match feeling pretty unwinnable for me. I don't feel comfortable bringing a hero with essentially an auto-loss matchup that I have to hope to GEM my way around. If that was my only tough matchup, maybe, but I've also been shaky into Oldhim and even Fai lately when piloting the Ice Queen. I'm sure I could improve these matchups with more reps and tuning my gameplan, but I'd have to put in work to do well and I don't have the time.
+
+I learned a lot from a weekend of testing with Fai, but decided he just wasn't for me right now. Fai is strong, I had more fun than expected playing with him, and he can definitely win as evidenced by his recent win in Columbus. But I get the sense that he requires really tight play to edge out what will often be close games, and I again don't have the time to put in reps needed to feel comfortable.
+
+So Oldhim it is. I've always like playing Oldhim, and at this point I feel like I have a gameplan into pretty much anyone and most matchups are at least close, if not strongly in my favor. I'm running a relatively aggressive list, looking to disrupt with pummels and crush effects. I'm not running Oaken Old. After the Isenloft ban, I feel like I would need to run more Earth cards than I want to make it consistent enough to be more than a 3 for 7 most of the time. What I'm debating right now is whether to run the Rouse the Ancients and Zealous Belting. To make room for them, I have to eliminate things like pummels or d-reacts which I'd rather not do, but they do allow for some explosive turns. Basically I'm deciding between something like [Michael Fang's BH Dallas Decklist](https://fabtcg.com/decklists/michael-feng-oldhim-deck---battle-hardened-dallas-fort-worth-100822/) without the go again attacks or [Ryan Rich's BH Columbus Decklist](https://fabtcg.com/decklists/ryan-rich-oldhim-deck---battle-hardened-columbus-realm-games-102222/) with them. I'm leaning toward including them, but we'll see. Here are the two versions of the deck that I'm considering specifically:
+- [Pummel Oldhim](https://fabrary.net/decks/01GGBERW2X4R1C6NNB1J67MQSQ)
+- [Aggro Oldhim, including Zealous and Rouse](https://fabrary.net/decks/01GGDYNS1NXTGCDAF4CDWEY6ZD)
+
+It's going to be a rough field. I'm expecting up to 4-5 people competing in Worlds the following weekend, including top ranked players like Pheano Black, not to mention a number of extremely strong non-pro locals. Nevertheless, I feel pretty well prepared and am looking forward to having a good time, regardless of the outcome. It'd be nice to win 2-3 matches at least, but I have no real expectations, except to learn a lot and have fun. 
