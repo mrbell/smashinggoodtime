@@ -14,3 +14,4 @@ Otherwise, here are some other things I am going to try over the next week:
 - I want to write up my own Deck Guide including MUs. That will help make sure I've actually got a sound gameplan that I can articulate, or highlight where I might have key questions to try to answer.
 - I can start requesting specific MUs in my Talishar game names, e.g. "Fai, looking for Oldhims". I don't know how well this will work, and it will likely lead to fewer games played overall, but ideally more of the games I need to play.
 - If I have specific questions I need to answer, or MUs to shore up, I should look for outside input either by posting questions on social media, or searching for content people have shared online that might provide some clues. 
+- If I have time, I may want to play some games with other heroes to better understand their strengths and weaknesses. That might help me strengthen my own plans.
