@@ -10,8 +10,8 @@ In one of the many Fai mirrors I played on Talishar, I recall a hand I wasn't su
 
 - My hand was a 0 for 3 w/ go again (e.g. Ronin Renegade but I don't exactly remember), a blue (e.g. Soulbead Strike, again I don't remember), and two E-strikes
 - I played the 0 for 3, pitched the blue into emberblade, grabbed a Phoenix Flame, then played E-strike sinking the other E-strike and choosing +2
-- Scalers were online and I was running Mo
-- They didn't block the first two attacks
+- Snapdragon Scalers were online and I was running Mask of Momentum as a head piece.
+- My opponent didn't block the first two attacks
 - I broke scalers and got the mask trigger, drawing a blue for 1 power and having the Phoenix Flame in hand still
 - I followed up with Phoenix Flame and the blue (getting +1 from shuko) for 16 total damage (3 + 3 + 7 + 1 + 2)
 
